@@ -45,7 +45,7 @@ na análise de dados meteorológicos, climáticos e ambientais.
 
 ### 📊 Estatística
 
-**[Regressão Linear](LINK)**  
+**[Regressão Linear](https://github.com/jgmsantos/data-science-portfolio/tree/main/statistics/linear-regression)**  
 Aplicação de regressão linear para investigar relações entre
 variáveis meteorológicas.
 
